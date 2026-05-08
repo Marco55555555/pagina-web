@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\kimbo\\\\OneDrive\\\\Desktop\\\\b_uYPzXd62vID\" -Recurse -Include \"*.tsx\", \"*.ts\", \"*.jsx\", \"*.js\")",
+      "Bash(Select-Object -ExpandProperty FullName)",
+      "PowerShell(New-Item *)"
+    ]
+  }
+}
